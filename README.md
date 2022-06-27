@@ -46,6 +46,6 @@
 - Custom Roles can be created specifically for JIT access.
 <p align="center">
   
-<img src="!https://user-images.githubusercontent.com/104326475/175976916-e235b926-82e8-4d37-aabb-55986698ac45.png" height="90%" width="90%" alt="JIT Access"/>
+<img src="https://user-images.githubusercontent.com/104326475/175976916-e235b926-82e8-4d37-aabb-55986698ac45.png" height="90%" width="90%" alt="JIT Access"/>
 
 <p/>
