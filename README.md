@@ -13,3 +13,29 @@
 - Once access is request, Microsoft Defender will create a inbound allow rule for your machine's IP.
 - That rule will trump the RDP inbound rule.
 
+
+# Enable JIT access when trying to RDP
+- This adds more restrictions and prevents just anyone from RDP into the virtual machine
+
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/175852969-b008961c-5735-488c-9e92-2dd962be2b41.png" height="90%" width="90%" alt="JIT Access"/>
+
+<p/>
+
+# Request JIT access from your IP
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/175853023-8f348ad2-7850-4011-9e21-1a661d6e4431.png" height="90%" width="90%" alt="JIT Access"/>
+
+<p/>
+
+# Network rules will be created 
+- One rule will deny anyone IP from RDP into the JIT virtual machine - Priority 1000
+- The other rule will create an allow rule for your machine's public IP to access JITvm's IP - Priority 101
+- Microsoft Defender will create these rules
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/175853269-118a6c8c-f654-43f2-9be4-20c17e3e2837.png" height="150%" width="150%" alt="JIT Access"/>
+
+<p/>
