@@ -59,3 +59,26 @@
 <p/>
 
 
+# Check for JIT assigned custom role
+
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/175988960-7313b212-4ee6-4b3c-ac11-bd6c35f5b3ed.png" height="90%" width="90%" alt="JIT Access"/>
+
+<p/>
+
+# Sign in to appuserB and request JIT access 
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/175989051-751b75b5-d3dc-4ffb-9323-344e9a96eda4.png" height="90%" width="90%" alt="JIT Access"/>
+
+<p/>
+
+# Check Networking rules
+- See that JIT rule was created to allow appuserB's machine to RDP into JITvm
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/175989219-bc9428fd-cc6d-455c-999b-0b34ab14c01e.png" height="90%" width="90%" alt="JIT Access"/>
+
+<p/>
+
