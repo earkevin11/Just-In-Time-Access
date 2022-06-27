@@ -50,3 +50,12 @@
 <img src="https://user-images.githubusercontent.com/104326475/175986992-b323e195-2a72-44c7-a4d4-1091c1833ae3.png" height="90%" width="90%" alt="JIT Access"/>
 
 <p/>
+
+# Assign the custom JustInTime Access role to a user
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/175987400-44883bcc-5dd3-4a6a-9f01-dcecbf0383e8.png" height="90%" width="90%" alt="JIT Access"/>
+
+<p/>
+
+
