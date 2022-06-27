@@ -39,3 +39,13 @@
 <img src="https://user-images.githubusercontent.com/104326475/175853269-118a6c8c-f654-43f2-9be4-20c17e3e2837.png" height="150%" width="150%" alt="JIT Access"/>
 
 <p/>
+
+
+
+# JIT VM Access - Custom Role
+- Custom Roles can be created specifically for JIT access.
+<p align="center">
+  
+<img src="!https://user-images.githubusercontent.com/104326475/175976916-e235b926-82e8-4d37-aabb-55986698ac45.png" height="90%" width="90%" alt="JIT Access"/>
+
+<p/>
