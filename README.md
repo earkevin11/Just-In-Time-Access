@@ -5,7 +5,7 @@
 - The NSG may have a rule that allows traffic on port 3389 (RDP). 
 - The JIT will work with NSG. JIT will add a rule to the NSG and allow access only when required.
 
-
+# Important: An Network Security Group needs to be attached to the Virtual Subnet or Virtual Machine to have Just-In-Time access enabled.
 
 # Within Defender - JIT VM access
 - Admins can control the duration for which a user can connect to an Azure VM
